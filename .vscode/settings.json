@@ -1,0 +1,7 @@
+{curl --request GET \
+--url 'https://stoplight.io/mocks/cashapp-pay/api/109478393/payments/$orionplay3' \
+--header 'Accept: application/json' \
+--header 'Prefer: code=200' \
+--header 'X-Region: LAX' \
+--header 'X-Signature: $merales749'
+}

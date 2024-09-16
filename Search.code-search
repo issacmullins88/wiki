@@ -1,0 +1,10 @@
+# Query: 
+# Flags: CaseSensitive WordMatch
+# ContextLines: 1
+
+curl --request GET \
+  --url 'https://stoplight.io/mocks/cashapp-pay/api/109478393/payments/$orionplay3' \
+  --header 'Accept: application/json' \
+  --header 'Prefer: code=404' \
+  --header 'X-Region: Us' \
+  --header 'X-Signature: $merales749'
